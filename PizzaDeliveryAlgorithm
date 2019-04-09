@@ -1,0 +1,8 @@
+1. Decide what kind of pizza you want
+2. Call pizza place 
+  a. If they answer, place order and go to #3
+  b. If they don't answer, go back to #2
+3. If paying over the phone, give CC information. If not, then hangup.
+4. Wait
+5. If paying in person, pay the delivery person. If not, do nothing.
+6. Take pizza 
